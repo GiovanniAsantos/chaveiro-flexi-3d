@@ -1,0 +1,13 @@
+{
+  "name": "chaveiro-flexi-3d",
+  "owner": { "name": "GiovanniAsantos" },
+  "metadata": { "description": "Skills de impressão 3D para o Claude Code." },
+  "plugins": [
+    {
+      "name": "chaveiro-flexi-3d",
+      "source": "./plugins/chaveiro-flexi-3d",
+      "description": "Transforma o STL de um bichinho em chaveiro flexi print-in-place com juntas escondidas e túnel para argola.",
+      "version": "1.0.0"
+    }
+  ]
+}
