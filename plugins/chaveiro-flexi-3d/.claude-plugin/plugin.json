@@ -1,9 +1,19 @@
 {
   "name": "chaveiro-flexi-3d",
-  "version": "2.0.0",
-  "description": "Turns an animal 3D model into a print-in-place flexi keychain: flat base cut, 2 hidden joints (pin, ball or interlocked links) that swivel and tilt, and an arched tunnel for the key ring.",
-  "author": { "name": "GiovanniAsantos" },
+  "version": "1.0.1",
+  "description": "Turns an animal STL into a print-in-place flexi keychain: flat base cut, 2 hidden joints (3 parts) and an arched tunnel for the key ring.",
+  "author": {
+    "name": "GiovanniAsantos"
+  },
   "repository": "https://github.com/GiovanniAsantos/chaveiro-flexi-3d",
   "license": "MIT",
-  "keywords": ["3d-printing", "stl", "flexi", "keychain", "print-in-place", "trimesh", "bambu-studio"]
+  "keywords": [
+    "3d-printing",
+    "stl",
+    "flexi",
+    "keychain",
+    "print-in-place",
+    "trimesh",
+    "bambu-studio"
+  ]
 }

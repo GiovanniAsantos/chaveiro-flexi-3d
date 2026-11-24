@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.1] - 2026-11-24
+
+### Mudado
+- Volta ao padrão da v1.0.0 (junta de pino só com giro horizontal). A v2.0.0, com as juntas pino, bola e elos e a inclinação vertical, fica guardada no branch `v2-tres-articulacoes`.
+
 ## [2.0.0] - 2026-11-24
 
 ### Adicionado
