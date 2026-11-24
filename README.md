@@ -30,6 +30,12 @@ Subir a cabeça abre a emenda no dorso (≈ altura × tan do ângulo). Para mant
 /plugin install chaveiro-flexi-3d@chaveiro-flexi-3d
 ```
 
+O mesmo marketplace também lista o plugin **caveman** (modo de resposta ultra-curto), que é de outro autor ([Julius Brussee](https://github.com/JuliusBrussee/caveman)) e é instalado direto do repositório dele:
+
+```bash
+/plugin install caveman@chaveiro-flexi-3d
+```
+
 Se já tinha instalado a versão 1, atualize o marketplace:
 
 ```bash
