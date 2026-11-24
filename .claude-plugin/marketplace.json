@@ -6,8 +6,8 @@
     {
       "name": "chaveiro-flexi-3d",
       "source": "./plugins/chaveiro-flexi-3d",
-      "description": "Transforma o STL de um bichinho em chaveiro flexi print-in-place com juntas escondidas e túnel para argola.",
-      "version": "1.0.0"
+      "description": "Transforma um modelo 3D de bichinho em chaveiro flexi print-in-place com 3 tipos de junta (pino, bola, elos) que giram e inclinam, e túnel para argola.",
+      "version": "2.0.0"
     }
   ]
 }
